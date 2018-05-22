@@ -1,3 +1,4 @@
 1) added normal text
 2) added some more text
-3) add some orginial text
+3) add some original text
+4) new text
